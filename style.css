@@ -1,0 +1,78 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #b6bcdd8e;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    text-align: center;
+    margin-left: 13%;
+    margin-top: 2%;
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  input[type="datetime-local"] {
+    text-align: center;
+    margin-left: 13%;
+    margin-top: 5%;
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  button {
+    margin-left: 41%;
+    margin-top: 5%;
+    display: center;
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #03517e;
+    color: white;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+  }
+  
+  li:hover {
+    cursor: pointer;
+    background-color: #f2f2f2;
+  }
+  
+  .deleteBtn {
+    background-color: #f44336;
+    color: white;
+  }
+  
