@@ -1,4 +1,4 @@
-<h1 align="center"> Reminder </h1>
+<h1 align="center"> ⏰Reminder </h1>
 
 <p align="center">
 Reminder é um app para facilitar sua vida e te ajudar com lembretes. <br/>
