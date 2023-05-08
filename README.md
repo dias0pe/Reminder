@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://dias0pe.github.io/nlw-setup)
+- [Visite o projeto online](https://dias0pe.github.io/Reminder/)
